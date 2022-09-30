@@ -5,8 +5,8 @@
     "static/js/1.c9ab49d3.chunk.js": "./static/js/1.c9ab49d3.chunk.js",
     "static/js/1.c9ab49d3.chunk.js.map": "./static/js/1.c9ab49d3.chunk.js.map",
     "main.css": "./static/css/main.46aaabd2.chunk.css",
-    "main.js": "./static/js/main.1f2fb134.chunk.js",
-    "main.js.map": "./static/js/main.1f2fb134.chunk.js.map",
+    "main.js": "./static/js/main.8255117b.chunk.js",
+    "main.js.map": "./static/js/main.8255117b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d9460552.js",
     "runtime-main.js.map": "./static/js/runtime-main.d9460552.js.map",
     "static/js/4.c2d71434.chunk.js": "./static/js/4.c2d71434.chunk.js",
@@ -64,6 +64,7 @@
     "static/media/g_bg.db195358.png": "./static/media/g_bg.db195358.png",
     "static/media/index_logo.251359a9.png": "./static/media/index_logo.251359a9.png",
     "static/media/metamask-fox.7db94670.svg": "./static/media/metamask-fox.7db94670.svg",
+    "static/media/mini_ge.b9ac9103.png": "./static/media/mini_ge.b9ac9103.png",
     "static/media/nft_grop.cafc9c79.png": "./static/media/nft_grop.cafc9c79.png",
     "static/media/question-mark.d484b87e.svg": "./static/media/question-mark.d484b87e.svg",
     "static/media/send_success.4b70fc3f.png": "./static/media/send_success.4b70fc3f.png",
@@ -76,6 +77,6 @@
     "static/js/runtime-main.d9460552.js",
     "static/js/4.c2d71434.chunk.js",
     "static/css/main.46aaabd2.chunk.css",
-    "static/js/main.1f2fb134.chunk.js"
+    "static/js/main.8255117b.chunk.js"
   ]
 }
